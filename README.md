@@ -16,7 +16,7 @@ You can download the [RainSynLight25](https://github.com/flyywh/J4RNet-Deep-Vide
 
 ### Usage
 
-You can first modify config.py.
+You can first modify `config.py`.
 
 For train the model:
 ```
